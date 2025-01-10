@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>book.jpg</file>
+        <file>odunc_1.jpg</file>
+        <file>odunc_2.jpg</file>
+        <file>user.jpg</file>
+        <file>kutuphaneOtomasyon.db</file>
+    </qresource>
+</RCC>
